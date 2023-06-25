@@ -1,0 +1,5 @@
+@import url('./main-layout.css');
+@import url('./views/venta-view.css');
+@import url('./views/inventario-view.css');
+@import url('./views/reporte-view.css');
+@import url('./views/configuracion-view.css');
