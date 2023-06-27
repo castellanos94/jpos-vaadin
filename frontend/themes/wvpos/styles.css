@@ -3,3 +3,9 @@
 @import url('./views/inventario-view.css');
 @import url('./views/reporte-view.css');
 @import url('./views/configuracion-view.css');
+
+html {
+  --lumo-primary-color: #FF0266;
+  --lumo-font-family: sans-serif;
+  
+}
